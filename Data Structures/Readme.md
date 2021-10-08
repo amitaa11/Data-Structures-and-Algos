@@ -27,3 +27,5 @@ Our goal is to minimize the operation for CPU to get/write the information
 https://statmath.wu.ac.at/courses/data-analysis/itdtHTML/node55.html
 
 Watch: https://www.youtube.com/watch?v=fpnE6UAfbtU
+
+![DS Flow](Flow_DS.png)

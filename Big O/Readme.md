@@ -43,3 +43,5 @@ Stack: function calls (Stack overflow)
 Do we know any thing about the data? 
 Does it have to be super efficient, we don't have infinite and money
 
+Cheatsheet : https://www.bigocheatsheet.com/
+
