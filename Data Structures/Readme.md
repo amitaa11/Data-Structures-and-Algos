@@ -18,7 +18,7 @@ Storage : Persistent, don't lose data, slow, Files/Docs
 
 integers = 32/64 bits 4-8 bytes
 
-###Summary
+### Summary
 DS is an arrangement of data in RAM, some next to and some apart with different pros 
 and cons to access and write
 

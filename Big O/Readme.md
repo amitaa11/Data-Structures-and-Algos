@@ -1,4 +1,4 @@
-#Big O Cheat Sheet:
+# Big O Cheat Sheet:
 
 1. Big O(1) Constant- no loops
 2. O(log N) Logarithmic- usually searching algorithms have log n if they are sorted (Binary Search)
@@ -12,14 +12,14 @@ nested loops
 ** Iterating through half a collection is still O(n)
 ** Two separate collections: O(a */+ b)
 
-###What can cause time in a function?
+### What can cause time in a function?
 
 1. Operations (+, -, *, /)
 2. Comparisons (<, >, ==)
 3. Looping (for, while)
 4. Outside Function call (function())
 
-###Rule Book
+### Rule Book
 Rule 1: Always worst Case
 Rule 2: Remove Constants
 Rule 3: Different inputs should have different variables. O(a+b). 
@@ -28,14 +28,14 @@ Rule 3: Different inputs should have different variables. O(a+b).
         * for nested steps
 Rule 4: Drop Non-dominant terms
 
-###What causes Space complexity?
+### What causes Space complexity?
 (Memory)
 Variables
 Data Structures
 Function Call
 Allocations
 
-###Program Execution in terms of memory:
+### Program Execution in terms of memory:
 Heap: store program variables
 Stack: function calls (Stack overflow)
 
